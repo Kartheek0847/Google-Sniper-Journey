@@ -43,4 +43,4 @@ The repository is organized by daily progress to ensure accountability.
 - [ ] **Day 03:** ...
 
 ---
-*Created by [Your Name] | Aspiring SDE*
+*Created by [KARTHEEK CHOWDARY] | Aspiring SDE*
