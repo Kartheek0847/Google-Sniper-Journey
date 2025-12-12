@@ -4,7 +4,7 @@
 
 | Day | Date | Focus Area | Problems Solved | Key Concepts/Takeaways | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **01** | *[Insert Date]* | Java Memory & Arrays | 1. [LeetCode 1929](Day01/Concatenation.java)<br>2. [LeetCode 1920](Day01/BuildArray.java) | Stack vs Heap, String Pool, Array Allocation | ✅ Done |
+| **01** | *[12/12/2025]* | Java Memory & Arrays | 1. [LeetCode 1929](Day01/Concatenation.java)<br>2. [LeetCode 1920](Day01/BuildArray.java) | Stack vs Heap, String Pool, Array Allocation | ✅ Done |
 | **02** | - | - | - | - | ⏳ Pending |
 | **03** | - | - | - | - | ⏳ Pending |
 
